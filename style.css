@@ -1,0 +1,93 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    line-height: 1.5em;
+    font-size: 95%;
+}
+main {
+    background-color: black;
+    color: white;
+    font-family: 'Danos Black', monospace;
+    text-align: center;
+    padding: 40px;
+    font-size: 30px;
+    text-decoration: none;
+    
+    
+}
+#p1 {
+    font-family: 'Roboto Mono', Courier, monospace;
+    color: white;
+    
+}
+#p1:hover {
+    text-decoration: underline;
+}
+.paragraph1 {
+    color: black;
+    font-family: 'Itim Regular', Courier, monospace;
+    padding: 100px 0px 100px 20px;
+    font-size: 2em;
+}
+.article {
+    background-color: black;
+}
+.paragraph2 {
+    color: white;
+    font-family: 'Itim Regular', Courier, monospace;
+    padding: 50px 0px 50px 20px;
+    font-size: 30px;
+    background-image: url(fotogirassol.jpg);
+    max-width: 1800px 600px;
+    background-position: left center;	
+    background-attachment: fixed;
+    box-shadow: inset 4px 5px 8px rgba(0, 0, 0, 0.37);
+}
+.pp {
+    background-color: rgba(0, 0, 0, 0.281);
+    width: 300px;
+}
+
+.paragraph3 {
+    color: black;
+    font-family: 'Itim Regular', Courier, monospace;
+    padding: 50px 0px 50px 20px;
+    font-size: 30px;
+}
+.paragraph4 {
+    color: black;
+    font-family: 'Itim Regular', Courier, monospace;
+    padding: 50px 0px 100px 20px;
+    font-size: 30px;
+}
+.paragraph5 {
+    color: white;
+    font-family: 'Itim Regular', Courier, monospace;
+    padding: 50px 0px 50px 20px;
+    font-size: 30px;
+    background-image: url(fotoartigo.jpg);
+    background-attachment: fixed;
+    box-shadow: inset 4px 5px 8px rgba(0, 0, 0, 0.37);
+    
+}
+.paragraph6 {
+    color: black;
+    font-family: 'Itim Regular', Courier, monospace;
+    padding: 70px 0px 50px 20px;
+    font-size: 30px;
+}
+.paragraph7 {
+    color: black;
+    font-family: 'Itim Regular', Courier, monospace;
+    padding: 50px 0px 80px 20px;
+    font-size: 30px;
+}
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: auto;
+    padding: 5px;
+}
